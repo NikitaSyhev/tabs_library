@@ -13,3 +13,6 @@
 `hideTabContent()` - функция скрывает все табы.<br>
 `showTabContent()` - функция показывает табы с переданным индексом.<br>
 
+### Содержит обработчик событий:
+`tabsParent.addEventListener('click', function(event) {}` - переключение табов при нажатии.
+
